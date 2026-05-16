@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+
+title: Numerical Modeling of Ground Effect and Downforce in Formula 1 Vehicles
+description: A simplified CFD-based numerical study of Formula 1 aerodynamics
+show_downloads: true
