@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 ---
 
 # Numerical Modeling of Ground Effect and Downforce in Formula 1 Vehicles
@@ -25,7 +25,7 @@ A simplified CFD-based numerical study of Formula 1 aerodynamics using:
 - MATLAB-style visualization
 
 ## Preview
-(Add project images here)
+<img src="figures/ground_effect_visualization.png" width="800">
 
 ## Authors
 - Felo Edwar
